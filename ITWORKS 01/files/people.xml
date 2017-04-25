@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people xmlns="http://www.example.org/people" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/people people.xsd">
+    <person>
+        <id>1</id>
+        <name>aaa</name>
+        <age>45</age>
+    </person>
+    <person>
+        <id>3</id>
+        <name>ccc</name>
+        <age>66</age>
+    </person>
+</people>

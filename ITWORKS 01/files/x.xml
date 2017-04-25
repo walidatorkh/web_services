@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="eldar.com" xmlns:ns="other.com">
+	<table>
+		<legs>red</legs>
+	</table>
+	<ns:table>
+		<columns>6</columns>
+	</ns:table>
+</root>
