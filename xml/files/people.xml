@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people xmlns="people.eldar.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="people.eldar.com people.xsd ">
+	<person>
+		<name>name</name>
+		<id>0</id>
+		<age>0</age>
+	</person>
+	<person>
+		<name>name</name>
+		<id>0</id>
+		<age>0</age>
+	</person>
+	<person>
+		<name>name</name>
+		<id>0</id>
+		<age>0</age>
+	</person>
+</people>
